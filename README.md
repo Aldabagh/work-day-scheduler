@@ -6,7 +6,7 @@ App. page [https://aldabagh.github.io/work-day-scheduler/]
 
 
  ## Screenshots:
-![App screenshot]()
+![App screenshot](./assets/images/Screenshot%202023-04-05%20133134.jpg)
 
 
 
